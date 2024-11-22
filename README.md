@@ -107,3 +107,9 @@ git commit -m"update github classroom workflow"
 ## Contributing
 
 Any feedback and contribution is greatly appreciated. Please see [issues](https://github.com/tidb-incubator/tinykv/issues) if you want to join in the development.
+
+
+
+we will use this project to make OpenAtom Competition 2024.
+look forward to your contribution.
+have a good time.
